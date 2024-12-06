@@ -1,1 +1,3 @@
-Here are all the flex exersizes, more info on this will be added later!
+Here are all the flex assignments, more info on this will be added later!
+
+01 - flex-center
