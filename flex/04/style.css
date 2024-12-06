@@ -10,6 +10,7 @@ body {
   .title {
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
   }
   
   /* do not edit this footer */
@@ -24,3 +25,22 @@ body {
     justify-content: center;
     background: #eee;
   }
+
+ .images {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    margin: 120px;
+ }
+
+ .texts {
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+ }
+
+
+
