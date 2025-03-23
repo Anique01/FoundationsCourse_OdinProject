@@ -29,5 +29,13 @@ The objective is to replicate the layout, fonts, and colors as closely as possib
 
 *I will edit this section later to reflect any challenges I face during the project and how I resolve them.*
 
+### 1. Navigation Color Matching
 
+### 1. Navigation Color Matching
+
+**Problem:**  
+I had trouble figuring out how to get the navigation color to match the provided layout picture more accurately. Initially, I thought it had something to do with opacity.
+
+**Solution:**  
+After doing a quick Google search, I found out I could adjust the opacity of the text by using `opacity: ;`. I played around with the different numbers and came out on 0.7. This helped me achieve a closer match to the layout’s color.
 
