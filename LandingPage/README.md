@@ -1,13 +1,14 @@
 # Landing Page Project
 
-For this project, I will be creating a landing page based on a design provided by The Odin Project. The goal is to replicate the design exactly as shown in the images provided. This project will help me practice using HTML and CSS to structure and style a web page that mirrors the provided layout and design.
+This project is part of [The Odin Project's Foundations](https://www.theodinproject.com/lessons/foundations-landing-page) course. For this assignment, I'll be creating a landing page based on a provided design, using HTML and CSS. The main goal is to put the skills I've learned so far into practice, including structuring content with HTML and styling with CSS.
 
 ## Project Features
 
 - Replicating the design using HTML5 and CSS3
 - Implementing layout elements like headers, sections, and footers
-- Following the exact design structure and styling from the provided images
+- Following the design structure and styling from the provided images
 - Using a single stylesheet for all styling
+- Customizing the content with personal images, text, and experimenting with fonts and colors
 
 ## Design
 
@@ -27,3 +28,6 @@ The objective is to replicate the layout, fonts, and colors as closely as possib
 ## Problems Encountered and Solutions
 
 *I will edit this section later to reflect any challenges I face during the project and how I resolve them.*
+
+
+
