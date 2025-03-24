@@ -40,15 +40,16 @@
     font-size: 24px;
 }
 
-.navi {
-    font-size: 18px;
-    color: #e5e7eb;
+img {
+    width: 50%;
+    height: auto;
 }
-
-
 
 .Banner {
     background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
