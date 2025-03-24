@@ -44,3 +44,11 @@ I had trouble figuring out how to get the flexbox to flex correctly. The layout 
 
 **Solution:**  
 After doing some Google research, I realized the issue was related to how I had structured my flex container and its child elements. By adjusting the `.left` and `.right` classes, I was able to correct the alignment and make the flexbox behave as intended.
+
+### 3. Image and Text Alignment under Flexbox
+
+**Problem:**  
+I was having trouble aligning text directly under images while keeping the images in a horizontal line. Initially, I used flexbox for the layout, but the text wasn't aligning correctly beneath the images, and they were not grouped as intended.
+
+**Solution:**  
+After searching online for solutions, I couldn’t find a clear fix. I then asked ChatGPT for help, who explained that the issue was due to not grouping the image and text together as a single flex item. ChatGPT suggested wrapping each image and its corresponding text inside a container (`<div class="infoItem">`) and using `flex-direction: column` to stack them vertically within the flex container. This allowed me to keep the images aligned horizontally while positioning the text under each image correctly.
