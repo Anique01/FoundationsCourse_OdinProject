@@ -123,6 +123,31 @@
     font-size: 18px;
 }
 
+.inspire {
+    background-color: #e5e7eb;
+    padding: 150px;
+    text-align: center;
+    font-style: italic;
+    margin: 40px auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    margin-bottom: 15px;
+    padding: 10px 150px;
+    opacity: 0.5;
+}
+
+.writer {
+    font-weight: bold;
+    font-size: 24px;
+    font-style: normal;
+    color: #1f2937;
+    text-align: end;
+    padding-right: 200px;
+}
 
 
 
