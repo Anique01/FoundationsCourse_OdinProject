@@ -149,7 +149,44 @@
     padding-right: 200px;
 }
 
+.CTA {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 20px 40px;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: 150px auto;
+}
 
+.textCta {
+    padding: 20px 0px;
+}
+
+.textCta h3 {
+    padding: 5px 30px;
+    font-size: 24px;
+    text-align: left;
+}
+
+.textCta p {
+    padding: 5px 30px;
+    text-align: left;
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.buttonCta button {
+    background: transparent;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 10px 30px; 
+    font-size: 16px;
+    border-radius: 10px;
+    white-space: nowrap;
+}
 
 footer {
     background-color: #1f2937;
