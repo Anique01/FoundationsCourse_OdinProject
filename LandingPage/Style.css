@@ -45,10 +45,16 @@
     color: #e5e7eb;
 }
 
+
+
 .Banner {
     background-color: #1f2937;
 }
 
 footer {
     background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    font-size: 18px;
+    padding: 36px;
 }
