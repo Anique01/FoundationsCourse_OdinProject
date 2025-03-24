@@ -52,3 +52,7 @@ I was having trouble aligning text directly under images while keeping the image
 
 **Solution:**  
 After searching online for solutions, I couldn’t find a clear fix. I then asked ChatGPT for help, who explained that the issue was due to not grouping the image and text together as a single flex item. ChatGPT suggested wrapping each image and its corresponding text inside a container (`<div class="infoItem">`) and using `flex-direction: column` to stack them vertically within the flex container. This allowed me to keep the images aligned horizontally while positioning the text under each image correctly.
+
+## Reflection
+
+I really enjoyed this assignment as it gave me the opportunity to put what I've learned into practice. I started with writing all the HTML, which felt like the easiest part. Then, I moved on to CSS, where I quickly got through the navigation section. My main challenges came with flexbox alignment, particularly when trying to align images and text properly. But solving these problems helped me improve my CSS skills and gain more confidence in my ability to tackle layout issues. I also added a bit of my own styling to the project, which made it feel like my own creation while still staying true to the provided design.
