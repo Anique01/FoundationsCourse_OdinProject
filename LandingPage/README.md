@@ -37,3 +37,10 @@ I had trouble figuring out how to get the navigation color to match the provided
 **Solution:**  
 After doing a quick Google search, I found out I could adjust the opacity of the text by using `opacity: ;`. I played around with the different numbers and came out on 0.7. This helped me achieve a closer match to the layout’s color.
 
+### 2. Flexbox Alignment Issues
+
+**Problem:**  
+I had trouble figuring out how to get the flexbox to flex correctly. The layout was not aligning as expected, and some elements were not positioned properly.
+
+**Solution:**  
+After doing some Google research, I realized the issue was related to how I had structured my flex container and its child elements. By adjusting the `.left` and `.right` classes, I was able to correct the alignment and make the flexbox behave as intended.
