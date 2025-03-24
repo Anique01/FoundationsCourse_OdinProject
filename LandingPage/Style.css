@@ -40,17 +40,53 @@
     font-size: 24px;
 }
 
-img {
-    width: 50%;
-    height: auto;
-}
-
 .Banner {
     background-color: #1f2937;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 100px 185px;
 }
+
+.left {
+    color: #f9faf8;
+    padding-right: 30px;
+}
+
+h2 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-bottom: 15px;
+}
+
+.button button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    padding: 10px 50px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.right img {
+    width: 500px;
+    height: auto;
+}
+
 
 footer {
     background-color: #1f2937;
